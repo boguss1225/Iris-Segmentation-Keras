@@ -71,6 +71,9 @@ TABLE 4. Inference time comparison of trained models with **unseen test dataset*
 - Keras==2.4.3
 - imgaug == 0.4.0
 
+## Full Paper
+* https://arxiv.org/abs/2212.11439
+
 ## Reference
 * code base : https://github.com/divamgupta/image-segmentation-keras
 * dataset : J. I. Larregui, D. Cazzato, and S. M. Castro, "An image processing pipeline to segment iris for unconstrained cow identification system," Open Computer Science, vol. 9, no. 1, pp. 145-159, 2019.
